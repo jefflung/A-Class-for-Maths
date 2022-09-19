@@ -12,3 +12,7 @@ c.	The mult() function should take a number as an argument, multiply it by num a
 d.	The div() function should take a number as an argument, divide it by num and return the result.
 3.	Test your class by calling each of its functions and inspecting what they return.
 4.	Now, create a simple command-line based user interface for your program. Allow the user to specify a base number and construct an instance of your class. Then allow them to add, multiply, subtract and divide using that number until they type exit. You are allowed to implement this however you like.
+
+-----------------------------------
+Lecturer's comment:
+Good. Consider how to adapt the class to use varying secondary input
